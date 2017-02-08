@@ -21,7 +21,8 @@
         "php": ">=5.5",
         "zendframework/zend-view": "2.*",
         "zendframework/zend-modulemanager": "2.*",
-        "zendframework/zend-config": "2.*"
+        "zendframework/zend-config": "2.*",
+        "zendframework/zend-servicemanager": "^2.7.5 || ^3.0.3"
     },
     "replace": {
         "rwoverdijk/sxmail": "*"
